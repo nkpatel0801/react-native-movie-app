@@ -80,6 +80,6 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-![sample gif]([hover-over-color.gif](https://github.com/nkpatel0801/react-native-movie-app/blob/main/asd88bet-daftar-gif.gif)https://github.com/nkpatel0801/react-native-movie-app/blob/main/asd88bet-daftar-gif.gif)
+![sample gif](https://github.com/nkpatel0801/react-native-movie-app/blob/main/asd88bet-daftar-gif.gif)
 
 
